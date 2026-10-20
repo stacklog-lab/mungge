@@ -1,0 +1,11 @@
+{
+  "id": "mermaid-2026-11",
+  "title": "인어섬 마스코트 이벤트",
+  "prize": "치이카와 인어섬 마스코트 4개(캐릭터 선택, 캐릭터별 추첨, 1인 1개)",
+  "start": "2026-10-29T18:00:00+09:00",
+  "end": "2026-11-04T23:59:59+09:00",
+  "minExports": 3,
+  "formURL": "https://docs.google.com/forms/d/e/1FAIpQLScRgF10LA2e0apnVgn6lTw58afLmYZ8VMJA5Mt1Wv84MVI-xA/viewform",
+  "codeField": "entry.1473781054",
+  "rulesURL": "https://stacklog-lab.github.io/mungge/event.html"
+}
